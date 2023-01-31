@@ -1,6 +1,0 @@
-this is new file.
-
-#1 - first change
-
-#2 - second commit
-
