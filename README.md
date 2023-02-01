@@ -14,4 +14,8 @@ Sample website with plenty of files for demos
 
 ## Not working
 
+Add some stuff for staging.
+Adding more stuff in working directory
+
+
 
