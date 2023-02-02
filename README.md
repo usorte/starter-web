@@ -17,5 +17,5 @@ Sample website with plenty of files for demos
 Add some stuff for staging.
 Adding more stuff in working directory
 
-
+Editing readme file for branch merging
 
